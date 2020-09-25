@@ -8,5 +8,5 @@ I'm a Brazilian developer and I'm passionate about technology, and I do everythi
 - C#(Visual Studio)
 - IOT(Arduino, Raspberry, NodeMCU)
 
-## Find me around the web 🌎:
+## Find me 🌎:
 - <a href="https://www.linkedin.com/in/gsrbr/">My Linkedin</a> 💼
